@@ -1,0 +1,15 @@
+.Navbar .logo {
+  height: 150px !important;
+}
+.Navbar input {
+  height: 25px !important;
+  border: 1px solid rgb(138, 138, 138) !important;
+}
+.Navbar button {
+  border: 1px solid rgb(138, 138, 138) !important;
+}
+.Navbar .Navlist {
+  background-color: rgb(75, 174, 206);
+}
+
+/*# sourceMappingURL=style.css.map */
