@@ -18,14 +18,14 @@ const Navbar = () => {
           </div>
         </div>
       </div>
-      <div className="Navlist row m-0 p-0 justify-content-center ">
-            <div className="col-8 row m-0 p-0">
-                <div className="col-2">Home</div>
-                <div className="col-2">Journal</div>
-                <div className="col-2">Submit Manuscript</div>
-                <div className="col-2">For Authors</div>
-                <div className="col-2">Publication Ethics</div>
-                <div className="col-2">Contact Us</div>
+      <div className="Navlist row m-0 p-3 mt-3 justify-content-center ">
+            <div className="col-8 row m-0 p-0 align-items-center">
+                <div className="col-1 ps-4 pe-4 w-auto"><i class="bi bi-house-fill text-light fs-4"></i></div>
+                <div className="col-1 ps-4 pe-4 w-auto border border-top-0 border-bottom-0  text-light">Journal</div>
+                <div className="col-1 ps-4 pe-4 w-auto border border-top-0 border-bottom-0 border-start-0 text-light">Submit Manuscript</div>
+                <div className="col-1 ps-4 pe-4 w-auto border border-top-0 border-bottom-0 border-start-0 text-light">For Authors</div>
+                <div className="col-1 ps-4 pe-4 w-auto border border-top-0 border-bottom-0 border-start-0 text-light">Publication Ethics</div>
+                <div className="col-1 ps-4 pe-4 w-auto text-light">Contact Us</div>
             </div>
       </div>
     </div>
